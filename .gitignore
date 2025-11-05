@@ -5,3 +5,10 @@ rustbpe/target/
 dev-ignore/
 report.md
 eval_bundle/
+.env
+*.pt
+*.pkl
+*.log
+*.parquet
+*.npm-cache/*
+*.nano_out/*
