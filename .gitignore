@@ -12,3 +12,5 @@ eval_bundle/
 *.parquet
 *.npm-cache/*
 *.nano_out/*
+*.wandb
+*.latest-run
